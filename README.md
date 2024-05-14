@@ -7,7 +7,7 @@ Actualmente soy desarrollador de software pero tengo interes en muchos otros tem
 Estoy interesado en la arquitectura de software
 
 ## 📫 Cómo contactarme
-Puedes contactarme a través de... (añade cómo pueden contactarte)
+Puedes contactarme a través del correo electronico sgiraldodevs@gmail.com
 
 ## 📊 Estadísticas de GitHub
 ![Estadísticas de GitHub de sgiraldodev](https://github-readme-stats.vercel.app/api?username=sgiraldodev&show_icons=true)
