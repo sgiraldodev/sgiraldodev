@@ -1,7 +1,7 @@
 # Hola, soy @sgiraldodev 👋
 
 ## Sobre mí
-Actualmente soy desarrollador de software pero tengo interes en muchos otros temas de la ingenieria, las redes y comunicaciones, la infraestructura y las buenas practicas o metologias dentro de equipos de trabajo.
+Actualmente soy desarrollador de software pero tengo interes en diveros temas de la ingenieria, como las redes y comunicaciones, la infraestructura y las buenas practicas o metologias dentro de equipos de trabajo.
 
 ## 👀 Intereses
 Estoy interesado en la arquitectura de software
