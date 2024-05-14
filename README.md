@@ -1,4 +1,4 @@
-# Hola, soy @sgiraldodev 👋
+# Hola, soy Santiago Giraldo 👋
 
 ## Sobre mí
 Actualmente soy desarrollador de software pero tengo interés en diversos temas de la ingenieria, como las redes y comunicaciones, la infraestructura y las buenas practicas o metologias dentro de equipos de trabajo.
